@@ -33,3 +33,9 @@ Gabijos g 2b. , Vilnus
 
 - Udemy.com Developers bootcamp 2022 - https://www.udemy.com/user/coltsteele/;
 I am an **_aspiring_** IT front end developer who caught the learning virus from the udemy website 4 months ago. None of my formal education links up to the IT field, however, I am currently in proccess of completing my RSSCHOOL course. So far I have successfully tackled learning and using the basic knowledge of the html, css, js, git and github, for further successes, please refer back to this document some months later. 
+
+## Hobbies
+
+- Teaching English, cats.
+- Front end skills self learning
+- Drawing with ink and pencil
