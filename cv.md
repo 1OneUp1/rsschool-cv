@@ -4,7 +4,7 @@
 vaidotas.sniras@gmail.com 
 https://github.com/1OneUp1/
 +37066463873
-Gabijos g 2b. , Vilnus, Lithuania
+Gabijos g 2b. , Vilnus, Lt
 
 ## Pr**of**ile
 
